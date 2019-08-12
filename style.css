@@ -1,0 +1,10 @@
+#navbar{
+        position: fixed;
+        width: 100%;
+        overflow: hidden;
+        z-index: 2;  
+        font-family: 'Lucida Sans';
+    }
+.display{
+    display: inline-block;
+}
